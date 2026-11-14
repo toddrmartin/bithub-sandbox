@@ -1,2 +1,2 @@
-mode: dry-run
-enforce: false
+mode: request
+enforce: true

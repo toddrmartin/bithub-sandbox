@@ -1,4 +1,3 @@
-* @trmartin4/team-platform
-/libs/auth/ @trmartin4/team-auth
-/libs/vault/ @trmartin4/team-vault
-/libs/shared/ @trmartin4/team-auth @trmartin4/team-vault
+/libs/auth/ @toddrmartin/team-eng-auth
+/libs/vault/ @toddrmartin/team-eng-vault
+/libs/shared/ @toddrmartin/team-eng-auth @toddrmartin/team-eng-vault
