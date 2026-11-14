@@ -6,4 +6,8 @@ export class FolderService {
   folders$(): Observable<string[]> {
     return this.folders.asObservable();
   }
+
+  foldersNow(): string[] {
+    return this.folders.getValue();
+  }
 }
