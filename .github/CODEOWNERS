@@ -1,0 +1,4 @@
+* @trmartin4/team-platform
+/libs/auth/ @trmartin4/team-auth
+/libs/vault/ @trmartin4/team-vault
+/libs/shared/ @trmartin4/team-auth @trmartin4/team-vault
